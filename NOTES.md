@@ -42,6 +42,16 @@ Dates are absolute. New entries go at the top of each section.
   clearly marked as distinct from the chapter's running text (e.g. a blockquote or a
   labelled sub-heading) so the build can style it as a separate layer.
 
+### Import workflow — *ruled 2026-06-16*
+- **Per-chapter, just-in-time.** We do not bulk-import all 86 chapters. The new METS
+  reader (metseditions.org) is a JavaScript app whose server payload mixes site
+  navigation and Crampton's *copyrighted* introduction with only the opening stretch
+  of running text, so reliable, correctly-ordered bulk extraction of the public-domain
+  Middle English is not achievable by simple page-fetching. Instead, each chapter's
+  Middle English is fetched and filed into `SOURCE.md` immediately before it is
+  translated (Module 1 folds into the Module 2 ritual). Chapters that cannot be
+  retrieved cleanly are paused and surfaced to Mark.
+
 ### The Sloane incipit — *ruled 2026-06-16*
 - The edition's opening — *"Revelations to one who could not read a letter. Anno Domini
   1373."* and *"A Particular of the Chapters."* — is **front matter, not part of

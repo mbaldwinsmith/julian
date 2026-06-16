@@ -78,6 +78,11 @@ These govern every decision. A few standing rules:
 This is deliberately unhurried. Import is not mechanical copying; it is the first act
 of editorial care.
 
+> **Workflow ruling (2026-06-16):** import is **per-chapter, just-in-time** — each
+> chapter's Middle English is captured immediately before it is translated, so this
+> module folds into the Module 2 ritual rather than running as a separate bulk pass.
+> (The METS reader is a JS app that does not yield reliable bulk text; see NOTES.md.)
+
 - [ ] Settle the **scribal-headings decision** (STYLEGUIDE §2 / NOTES): translate the
       chapter summaries, set them apart as a historical layer, or omit. Record the
       ruling in `NOTES.md` before importing, since it shapes how you capture them.
@@ -109,6 +114,7 @@ iterative ritual below.
 
 **Per-chapter ritual.** For each chapter N:
 
+0. Import chapter N's Middle English into `SOURCE.md` just-in-time (Module 1 workflow).
 1. Load `STYLEGUIDE.md` and current `GLOSSARY.md` into context.
 2. Read chapter N's Middle English from `SOURCE.md`.
 3. Draft the translation, observing register, rhythm (§4), vocabulary (§5), and the
