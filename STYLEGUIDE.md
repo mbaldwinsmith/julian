@@ -26,8 +26,10 @@ built upon it. Substantive textual choices must be logged in `NOTES.md`.
 - **Base text:** Long Text of the *Revelations*, c. 1393, from **Sloane 2499**
   (British Library)
 - **Working Middle English source:** TEAMS Middle English Texts Series (METS),
-  ed. Marion Glasscoe lineage — freely available, editorially sound, with glossary.
-  Filed chapter by chapter in `SOURCE.md`.
+  ed. Georgia Ronan Crampton, *The Shewings of Julian of Norwich* (1994), Sloane 2499
+  base — freely available (metseditions.org), editorially sound, with glossary. Filed
+  chapter by chapter in `SOURCE.md`. **Note:** this edition uses modern letter-forms
+  (thorn/yogh/eth already transcribed); we accept it as-is and preserve its spelling.
 - **Variant reference:** Paris manuscript (BnF fonds anglais 40) where readings
   meaningfully diverge.
 - **Modern reference editions (for checking, NOT translating from):** Edmund

@@ -81,15 +81,21 @@ of editorial care.
 - [ ] Settle the **scribal-headings decision** (STYLEGUIDE §2 / NOTES): translate the
       chapter summaries, set them apart as a historical layer, or omit. Record the
       ruling in `NOTES.md` before importing, since it shapes how you capture them.
-- [ ] Source each chapter's Middle English from the TEAMS Middle English Texts (METS)
-      edition. Import chapter by chapter, not in one bulk paste.
+- [ ] Source each chapter's Middle English from the TEAMS/METS edition (Crampton,
+      *The Shewings of Julian of Norwich*, 1994; metseditions.org). Import chapter by
+      chapter, not in one bulk paste.
 - [ ] Preserve original spelling and scribal inconsistency. Do **not** silently
-      modernise (no expanding *þe* to *the*, no regularising *kinde*/*kynde*).
-- [ ] Normalise only whitespace and obvious OCR artefacts; log anything ambiguous.
+      modernise (no regularising *kinde*/*kynde*). **Note:** the Crampton edition
+      already uses modern letter-forms — thorn (þ), yogh (ȝ), and eth (ð) are
+      transcribed — and we accept it as-is (ruled 2026-06-16, see NOTES.md), so there
+      are no special letter-forms to preserve from this source.
+- [ ] Normalise only print line-wrapping (reflow to running paragraphs) and obvious
+      OCR artefacts; do not alter words or spelling. Log anything ambiguous.
 - [ ] Use a consistent chapter delimiter so later scripts can split reliably
       (e.g. `## Chapter N`).
-- [ ] Note any special characters present: thorn (þ), eth (ð), yogh (ȝ), ash (æ).
-      Ensure the file is saved UTF-8. These matter again at build/QA time.
+- [ ] Ensure the file is saved UTF-8. (The chosen edition carries no thorn/yogh/eth,
+      so the Module 7 special-character check largely falls away — relevant only if
+      such characters are reintroduced decoratively.)
 
 **Done when:** `SOURCE.md` contains all 86 chapters, UTF-8, spelling intact, with a
 recorded ruling on the scribal headings.
