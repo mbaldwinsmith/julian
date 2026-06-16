@@ -1,0 +1,25 @@
+# Build artefacts
+build/
+
+# High-resolution illustration masters (repo holds export-ready versions only)
+images/masters/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+# Pandoc / temp
+*.tmp
+*.bak

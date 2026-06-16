@@ -1,0 +1,25 @@
+---
+# Pandoc EPUB metadata — see TASKS.md Module 6.
+# Module 0 stub: values confirmed/expanded at build time (Module 6) and against the
+# KDP listing (Module 8).
+
+title:
+  - type: main
+    text: Revelations of Divine Love
+  - type: subtitle
+    text: An Illustrated Translation
+creator:
+  - role: author
+    text: Julian of Norwich
+  - role: translator
+    text: Mark Oriel
+  - role: illustrator
+    text: Mark Oriel
+language: en
+rights: >-
+  Translation, introductions, notes, and illustrations © Mark Oriel 2026.
+  Original text by Julian of Norwich is in the public domain.
+publisher: Mark Oriel
+date: 2026
+# cover-image: images/cover.png   # set once the cover exists (Module 5/8)
+...

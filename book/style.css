@@ -1,0 +1,75 @@
+/* style.css — typography for the EPUB build (TASKS.md Module 6).
+ *
+ * Module 0 stub: sensible reflowable defaults using the Kindle-supported CSS subset.
+ * The Art Nouveau display face and the licensed body serif are wired in at Module 6,
+ * once fonts licensed for embedding are chosen and placed in fonts/. Do NOT embed a
+ * font whose licence does not permit embedding.
+ */
+
+/* ---- Body text ---------------------------------------------------------- */
+body {
+  /* Replace with the chosen embedded serif at Module 6. */
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  margin: 0 5%;
+  text-align: justify;
+  widows: 2;
+  orphans: 2;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.25em;
+}
+
+/* First paragraph of a section is not indented. */
+h1 + p, h2 + p, h3 + p, hr + p {
+  text-indent: 0;
+}
+
+/* ---- Headings ----------------------------------------------------------- */
+h1, h2, h3 {
+  /* Replace with the Art Nouveau display face at Module 6. */
+  font-family: Georgia, serif;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  page-break-after: avoid;
+}
+
+h1 { /* chapter title */
+  page-break-before: always;
+  margin: 1.5em 0 1em;
+}
+
+/* ---- Scribal chapter-summaries (historical layer) ----------------------- *
+ * Set apart per the NOTES.md ruling. The build marks these distinctly so they
+ * read as a later editorial hand, not Julian's voice. Refine at Module 5/6
+ * (candidate: illuminated incipits).
+ */
+.scribal-heading,
+blockquote.scribal {
+  font-style: italic;
+  font-size: 0.9em;
+  margin: 1em 2em;
+  color: #555;
+}
+
+/* ---- Drop capitals (illuminated initials) ------------------------------- *
+ * Finalised at Module 5/6 with the display face.
+ */
+.dropcap::first-letter {
+  font-size: 3em;
+  line-height: 1;
+  float: left;
+  padding-right: 0.05em;
+}
+
+/* ---- Images ------------------------------------------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure { margin: 1em 0; text-align: center; }
+figcaption { font-size: 0.85em; font-style: italic; }
