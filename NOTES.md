@@ -92,6 +92,8 @@ Dates are absolute. New entries go at the top of each section.
 - **Ch. 1, "the Trinite":** Sloane reads *thee*; the edition reads *the Trinite* (Paris
   *precious* etc. nearby). We follow the edition's *Trinite* — the enumeration plainly
   intends the Trinity. (Surfaced by Crampton's note; logged, not copied.)
+- **Ch. 5, "howe God":** Sloane *howe*; Paris *have*; Sloane marginal gloss *know*. Took
+  **have** — *"to love and have God, who is unmade."*
 
 ---
 
@@ -122,6 +124,21 @@ Dates are absolute. New entries go at the top of each section.
   stands for *kinde* generally; ambiguous cases are still judged in context and logged.
 - ***willfull longing* → "wilful longing for God"** — Julian's *will/wilful* carries a
   weighted sense (sustained, conscious choosing); flagged, not yet a fixed ruling.
+
+**Chapters 3–5 (*kinde*):**
+- ch. 3 *not of kinde* → "not of nature"; *kinde soule* → "kind soul" (affective sense).
+- ch. 5 *kinde yernings* → "natural yearning" (native/natural sense).
+- Pattern: *kinde* judged in context — "nature/natural" by default (§6), "kind" in
+  affective senses. Each logged.
+
+**Surfaced — awaiting Mark's ruling (chs 3–5):**
+- ***noughting*** — Julian's apophatic verb *nowten/nowtyn/nowted*. Proposed: **retain the
+  coinage** (*to nought / noughted*), parallel to *oneing*, over "bring to nothing" /
+  "count as nothing".
+- ***drede / dredfull*** — proposed standing rendering for the awe / holy-fear family:
+  **"dread"** (adj./noun), e.g. *"so reverend, so dread"*; later *"reverent dread."*
+- ***homely*** in divine-condescension contexts — confirm **"intimate"** or prefer
+  **"familiar"** (§6 permits it where "intimate" feels too romantic).
 
 **New glossary terms — ratified 2026-06-20 (now in `GLOSSARY.md`):**
 - ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; over
