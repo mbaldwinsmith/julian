@@ -26,10 +26,11 @@ These govern every decision. A few standing rules:
   earlier chapters can be revisited.
 - **Commit per chapter.** One chapter, one commit (`feat: translate ch. NN`). This
   makes the project's history legible and reversible.
-- **Sequencing (2026-06-20): the Short Text is produced first, then the Long Text.**
-  Short Text base = Amherst MS (BL Add. 37790) via Holloway (`SOURCE-short.md`),
-  medieval letter-forms preserved. Long Text base = Sloane 2499, 86 chapters
-  (`SOURCE.md`), deferred to phase 2. See `NOTES.md`.
+- **Base text is Sloane 2499; the Long Text has 86 chapters.** Source = Crampton/METS,
+  which Mark copy-pastes part by part from metseditions.org; only the public-domain
+  Middle English is filed in `SOURCE.md` (Crampton's glosses/notes are a private aid,
+  not committed). A 2026-06-20 detour to do the Short Text first was reverted (no clean
+  free source) and shelved. See `NOTES.md`.
 
 ---
 
@@ -81,10 +82,10 @@ These govern every decision. A few standing rules:
 This is deliberately unhurried. Import is not mechanical copying; it is the first act
 of editorial care.
 
-> **Workflow ruling (2026-06-16):** import is **per-chapter, just-in-time** — each
-> chapter's Middle English is captured immediately before it is translated, so this
-> module folds into the Module 2 ritual rather than running as a separate bulk pass.
-> (The METS reader is a JS app that does not yield reliable bulk text; see NOTES.md.)
+> **Workflow ruling (2026-06-20):** Mark copy-pastes the Crampton text part by part
+> from metseditions.org (Part 1 = chs I–XXXIII, etc.); Claude files only the
+> public-domain Middle English + scribal rubrics into `SOURCE.md`. Crampton's
+> glosses/notes are a private drafting aid, never committed. See NOTES.md.
 
 - [ ] Settle the **scribal-headings decision** (STYLEGUIDE §2 / NOTES): translate the
       chapter summaries, set them apart as a historical layer, or omit. Record the
@@ -117,7 +118,7 @@ iterative ritual below.
 
 **Per-chapter ritual.** For each chapter N:
 
-0. Import chapter N's Middle English into `SOURCE.md` just-in-time (Module 1 workflow).
+0. Ensure chapter N's Middle English is filed in `SOURCE.md` (from Mark's pasted part).
 1. Load `STYLEGUIDE.md` and current `GLOSSARY.md` into context.
 2. Read chapter N's Middle English from `SOURCE.md`.
 3. Draft the translation, observing register, rhythm (§4), vocabulary (§5), and the

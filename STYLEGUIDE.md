@@ -23,13 +23,6 @@ built upon it. Substantive textual choices must be logged in `NOTES.md`.
 
 ## 2. Source Text
 
-> **Project sequencing (2026-06-20):** we produce the **Short Text first**, then the
-> Long Text. For the **Short Text** the base is the **Amherst Manuscript** (BL Additional
-> 37790), captured from Julia Bolton Holloway's transcription
-> (<https://www.umilta.net/amherst.html>) into `SOURCE-short.md`; medieval letter-forms
-> (þ, ȝ) are preserved. The Long-Text details below govern the second phase. See
-> `NOTES.md`.
-
 - **Base text:** Long Text of the *Revelations*, c. 1393, from **Sloane 2499**
   (British Library)
 - **Working Middle English source:** TEAMS Middle English Texts Series (METS),

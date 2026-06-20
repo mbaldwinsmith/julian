@@ -12,25 +12,15 @@ Dates are absolute. New entries go at the top of each section.
 
 ## Standing Rulings
 
-### Project sequencing: Short Text first — *ruled 2026-06-20*
-- The project now produces the **Short Text first** (Julian's earlier, c. 1373 account
-  of the showings), then the Long Text. The Short Text is shorter (~25 short sections
-  vs 86 chapters) and a more achievable first edition.
-- **Short Text base:** the **Amherst Manuscript** (British Library, Additional 37790) —
-  the single surviving witness. Source for capture: **Julia Bolton Holloway's
-  transcription** at <https://www.umilta.net/amherst.html>, the standard freely
-  available Middle English Short Text. Filed in `SOURCE-short.md`; translations under
-  `translations/short/`.
-- **Capture method:** Mark copies the Middle English by hand from the Holloway page
-  (a *diplomatic* transcription — scribal abbreviations, yogh as "3", line-end marks,
-  embedded in a scholarly essay); Claude normalises it to a clean reading text
-  (expanding abbreviations, restoring þ/ȝ, removing line-marks), logging choices.
-- **Letter-forms (Short Text):** medieval letter-forms **thorn (þ) and yogh (ȝ) are
-  preserved.** This *reverses* the Crampton "modern letter-forms" ruling, which applies
-  only to the Long Text phase. The Module 7 special-character check applies again.
-- The Long Text (Sloane 2499 / Crampton) and its imported Chapter 1 remain valid and
-  deferred to the second phase; its files (`SOURCE.md`, `REFERENCE.md`,
-  `translations/01_*`) are unchanged.
+### Project sequencing: Long Text first — *ruled 2026-06-20*
+- The project produces the **Long Text first** (Sloane 2499). An earlier 2026-06-20
+  decision to do the **Short Text first** was **reverted** the same day: no clean,
+  freely available Middle English Short Text could be found (Crampton/METS carries only
+  excerpts of it; Holloway's Amherst page is a diplomatic transcription embedded in an
+  essay), whereas the **Long Text is cleanly obtainable** from Crampton (see sourcing
+  below). The Short Text is **shelved indefinitely** pending a sourceable clean text; if
+  revived it becomes a later phase. The `SOURCE-short.md` stub and `translations/short/`
+  were removed (recoverable from git history).
 
 ### Base text
 - **Sloane 2499** (British Library) is the base text. The Paris manuscript
@@ -62,15 +52,16 @@ Dates are absolute. New entries go at the top of each section.
   clearly marked as distinct from the chapter's running text (e.g. a blockquote or a
   labelled sub-heading) so the build can style it as a separate layer.
 
-### Import workflow — *ruled 2026-06-16*
-- **Per-chapter, just-in-time.** We do not bulk-import all 86 chapters. The new METS
-  reader (metseditions.org) is a JavaScript app whose server payload mixes site
-  navigation and Crampton's *copyrighted* introduction with only the opening stretch
-  of running text, so reliable, correctly-ordered bulk extraction of the public-domain
-  Middle English is not achievable by simple page-fetching. Instead, each chapter's
-  Middle English is fetched and filed into `SOURCE.md` immediately before it is
-  translated (Module 1 folds into the Module 2 ritual). Chapters that cannot be
-  retrieved cleanly are paused and surfaced to Mark.
+### Import workflow — *ruled 2026-06-20 (supersedes 2026-06-16)*
+- **Mark copy-pastes the Crampton text, part by part, from metseditions.org.** The METS
+  reader is a JavaScript app that does not yield reliable bulk text by page-fetching, so
+  the earlier "per-chapter just-in-time fetch" approach is dropped. Instead Mark pastes
+  whole parts (Part 1 = chs I–XXXIII, etc.); Claude files the **public-domain Middle
+  English + scribal rubrics** into `SOURCE.md` (reflowing print line-wraps only).
+- **Crampton's glosses and notes are a private aid, not repo content.** They are her
+  1994 copyrighted scholarship; Claude *consults* them while drafting (they flag textual
+  variants and difficult words) but does **not** commit them verbatim or republish them
+  in the edition. Only Claude's own derived decisions are logged here.
 
 ### The Sloane incipit — *ruled 2026-06-16*
 - The edition's opening — *"Revelations to one who could not read a letter. Anno Domini
@@ -98,7 +89,9 @@ Dates are absolute. New entries go at the top of each section.
 > Log each chosen variant: chapter, the Sloane reading, the Paris reading, which was
 > taken, and why.
 
-*(none yet)*
+- **Ch. 1, "the Trinite":** Sloane reads *thee*; the edition reads *the Trinite* (Paris
+  *precious* etc. nearby). We follow the edition's *Trinite* — the enumeration plainly
+  intends the Trinity. (Surfaced by Crampton's note; logged, not copied.)
 
 ---
 
@@ -117,7 +110,17 @@ Dates are absolute. New entries go at the top of each section.
 > *failing*, *privy*, and any other case where the glossary ruling required a judgement
 > call. Chapter, the source word, the rendering chosen, the rationale.
 
-*(none yet)*
+**Chapter 1 (apparatus list):**
+- ***geveand* → "giving"** — *"reuland and geveand all things"* = "ruling and giving."
+  Resolved: my earlier tentative "governing" was wrong; corrected to **"giving"**.
+- ***privityes* → "secrets"** — *"wete His privityes"* = "know His secrets" (the *privy*
+  ruling in its hidden sense).
+
+**Proposed new glossary terms — awaiting Mark's ratification (not yet in `GLOSSARY.md`):**
+- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; chosen over
+  "satisfaction"/"reparation"). Supported as a load-bearing legal-ecclesiastical term.
+- ***wele / wo* → "weal / woe"** (kept as the alliterative pair, over "well-being/woe").
+- ***likeing* → "delight"** (over "pleasure"/"liking").
 
 ---
 

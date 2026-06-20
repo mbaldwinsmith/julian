@@ -28,8 +28,7 @@ chapter. A few standing rules govern everything:
 | File / dir | Role |
 |---|---|
 | `STYLEGUIDE.md` | The controlling intelligence — read first, every session. |
-| `SOURCE-short.md` | **Short Text** Middle English (Amherst MS / Holloway). **Current focus.** |
-| `SOURCE.md` | **Long Text** Middle English (Sloane 2499 / Crampton). Deferred to phase 2. |
+| `SOURCE.md` | **Long Text** Middle English (Sloane 2499 / Crampton). **The only text translated from.** |
 | `REFERENCE.md` | Grace Warrack (1901), Long Text. Comparison only — never translated from. |
 | `GLOSSARY.md` | Ruling translations for load-bearing terms. Living. |
 | `NOTES.md` | Textual decisions, variant log, ambiguous-term instances, open questions. |
@@ -52,8 +51,10 @@ Then validate with **epubcheck** and review in **Kindle Previewer** (Module 7).
 
 ## Current state
 
-Module 0 (repository setup) is complete. The project is now producing the **Short Text
-first** — Julian's earlier (c. 1373) account — from the Amherst manuscript via Holloway's
-transcription, captured into `SOURCE-short.md` and translated under `translations/short/`.
-The Long Text (Sloane 2499) is deferred to a second phase; its imported Chapter 1 stands.
-See `TASKS.md` for the full plan and `NOTES.md` for standing editorial rulings.
+Module 0 (repository setup) is complete. The project is producing the **Long Text**
+(Sloane 2499) from the Crampton/METS edition, which Mark copy-pastes part by part from
+metseditions.org; only the public-domain Middle English is filed in `SOURCE.md`
+(Crampton's glosses/notes are a private aid, not committed). Translation proceeds chapter
+by chapter under `translations/`. (An earlier detour to do the Short Text first was
+reverted — no clean free source — and is shelved.) See `TASKS.md` for the full plan and
+`NOTES.md` for standing editorial rulings.

@@ -4,18 +4,17 @@
 
 ---
 
-> **Deferred — second phase.** The project is producing the **Short Text first**
-> (see `SOURCE-short.md`). This Long-Text file and its imported Chapter 1 remain valid
-> and resume after the Short Text edition. See `NOTES.md` (Project sequencing).
-
 This file holds the **Middle English** source text, chapter by chapter. This is the
 ONLY text the translation is made from. Do not paraphrase, do not work from
 `REFERENCE.md`.
 
 **Sourcing:** From the TEAMS Middle English Texts Series (METS) edition — Georgia
 Ronan Crampton, *The Shewings of Julian of Norwich* (1994), Sloane 2499 base — hosted
-at metseditions.org. Freely available and editorially sound. Preserve the original
-spelling, including scribal inconsistencies. Do not silently modernise.
+at metseditions.org. Mark copy-pastes the text part by part (Part 1 = chs I–XXXIII,
+etc.); only the **public-domain Middle English and scribal rubrics** are filed here.
+Crampton's glosses and notes are consulted privately as a drafting aid but are **not**
+reproduced in this repo (her 1994 copyright). Preserve the original spelling, including
+scribal inconsistencies. Do not silently modernise.
 
 **Letter-forms (ruled 2026-06-16):** This edition uses **modern letter-forms** — it
 already transcribes thorn (þ→th), yogh, and eth into modern letters. We accept it
