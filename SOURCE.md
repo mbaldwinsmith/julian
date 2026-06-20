@@ -4,6 +4,10 @@
 
 ---
 
+> **Deferred — second phase.** The project is producing the **Short Text first**
+> (see `SOURCE-short.md`). This Long-Text file and its imported Chapter 1 remain valid
+> and resume after the Short Text edition. See `NOTES.md` (Project sequencing).
+
 This file holds the **Middle English** source text, chapter by chapter. This is the
 ONLY text the translation is made from. Do not paraphrase, do not work from
 `REFERENCE.md`.

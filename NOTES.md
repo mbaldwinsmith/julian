@@ -12,6 +12,26 @@ Dates are absolute. New entries go at the top of each section.
 
 ## Standing Rulings
 
+### Project sequencing: Short Text first — *ruled 2026-06-20*
+- The project now produces the **Short Text first** (Julian's earlier, c. 1373 account
+  of the showings), then the Long Text. The Short Text is shorter (~25 short sections
+  vs 86 chapters) and a more achievable first edition.
+- **Short Text base:** the **Amherst Manuscript** (British Library, Additional 37790) —
+  the single surviving witness. Source for capture: **Julia Bolton Holloway's
+  transcription** at <https://www.umilta.net/amherst.html>, the standard freely
+  available Middle English Short Text. Filed in `SOURCE-short.md`; translations under
+  `translations/short/`.
+- **Capture method:** Mark copies the Middle English by hand from the Holloway page
+  (a *diplomatic* transcription — scribal abbreviations, yogh as "3", line-end marks,
+  embedded in a scholarly essay); Claude normalises it to a clean reading text
+  (expanding abbreviations, restoring þ/ȝ, removing line-marks), logging choices.
+- **Letter-forms (Short Text):** medieval letter-forms **thorn (þ) and yogh (ȝ) are
+  preserved.** This *reverses* the Crampton "modern letter-forms" ruling, which applies
+  only to the Long Text phase. The Module 7 special-character check applies again.
+- The Long Text (Sloane 2499 / Crampton) and its imported Chapter 1 remain valid and
+  deferred to the second phase; its files (`SOURCE.md`, `REFERENCE.md`,
+  `translations/01_*`) are unchanged.
+
 ### Base text
 - **Sloane 2499** (British Library) is the base text. The Paris manuscript
   (BnF fonds anglais 40) is consulted only where readings meaningfully diverge; any

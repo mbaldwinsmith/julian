@@ -28,8 +28,9 @@ chapter. A few standing rules govern everything:
 | File / dir | Role |
 |---|---|
 | `STYLEGUIDE.md` | The controlling intelligence — read first, every session. |
-| `SOURCE.md` | Middle English (Sloane 2499 / TEAMS METS). **The only text translated from.** |
-| `REFERENCE.md` | Grace Warrack (1901). Comparison only — never translated from. |
+| `SOURCE-short.md` | **Short Text** Middle English (Amherst MS / Holloway). **Current focus.** |
+| `SOURCE.md` | **Long Text** Middle English (Sloane 2499 / Crampton). Deferred to phase 2. |
+| `REFERENCE.md` | Grace Warrack (1901), Long Text. Comparison only — never translated from. |
 | `GLOSSARY.md` | Ruling translations for load-bearing terms. Living. |
 | `NOTES.md` | Textual decisions, variant log, ambiguous-term instances, open questions. |
 | `TASKS.md` | The modular build plan (Modules 0–8). |
@@ -51,6 +52,8 @@ Then validate with **epubcheck** and review in **Kindle Previewer** (Module 7).
 
 ## Current state
 
-Module 0 (repository setup) is complete. Next: Module 1 — importing the Middle English
-Long Text into `SOURCE.md`, chapter by chapter, from the TEAMS METS edition. See
-`TASKS.md` for the full plan and `NOTES.md` for standing editorial rulings.
+Module 0 (repository setup) is complete. The project is now producing the **Short Text
+first** — Julian's earlier (c. 1373) account — from the Amherst manuscript via Holloway's
+transcription, captured into `SOURCE-short.md` and translated under `translations/short/`.
+The Long Text (Sloane 2499) is deferred to a second phase; its imported Chapter 1 stands.
+See `TASKS.md` for the full plan and `NOTES.md` for standing editorial rulings.

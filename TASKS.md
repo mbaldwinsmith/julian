@@ -26,7 +26,10 @@ These govern every decision. A few standing rules:
   earlier chapters can be revisited.
 - **Commit per chapter.** One chapter, one commit (`feat: translate ch. NN`). This
   makes the project's history legible and reversible.
-- **Base text is Sloane 2499; the Long Text has 86 chapters.**
+- **Sequencing (2026-06-20): the Short Text is produced first, then the Long Text.**
+  Short Text base = Amherst MS (BL Add. 37790) via Holloway (`SOURCE-short.md`),
+  medieval letter-forms preserved. Long Text base = Sloane 2499, 86 chapters
+  (`SOURCE.md`), deferred to phase 2. See `NOTES.md`.
 
 ---
 
