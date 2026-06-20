@@ -158,6 +158,11 @@ is a separate project.
 **He** and **Him** may be capitalised when referring unambiguously to a divine
 person, at the translator's discretion, to preserve devotional register.
 
+**Second-person address** to and from God (Julian's prayer; God's speech to her) is
+rendered with modern **you / your**, not *thou/thee* — per §5.1's caution against
+inconsistent pseudo-medievalism. **You / Your** may be capitalised for God at the
+translator's discretion. (Ruled 2026-06-20.)
+
 ### 7.2 Christ's Humanity
 Julian moves fluidly between Christ's divinity and his bodily suffering. Do not
 smooth this over. The shift from transcendence to wound is the point.

@@ -116,6 +116,13 @@ Dates are absolute. New entries go at the top of each section.
 - ***privityes* → "secrets"** — *"wete His privityes"* = "know His secrets" (the *privy*
   ruling in its hidden sense).
 
+**Chapter 2:**
+- ***kinde compassion* → "kind compassion"** (2026-06-20, Mark's ruling) — this instance
+  leans on the *kind/kindness* sense, not the §6 default *nature/natural*. The §6 default
+  stands for *kinde* generally; ambiguous cases are still judged in context and logged.
+- ***willfull longing* → "wilful longing for God"** — Julian's *will/wilful* carries a
+  weighted sense (sustained, conscious choosing); flagged, not yet a fixed ruling.
+
 **New glossary terms — ratified 2026-06-20 (now in `GLOSSARY.md`):**
 - ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; over
   "satisfaction"/"reparation"). A load-bearing legal-ecclesiastical term.
