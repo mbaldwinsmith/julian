@@ -19,7 +19,7 @@ This is a showing of love that Jesus Christ, our endless bliss, made in sixteen 
 
 Of these, the first is of his precious crowning with thorns; and with it was comprehended and made plain the Trinity, with the incarnation, and the oneing between God and the soul of man — with many fair showings of endless wisdom and teaching of love, in which all the showings that follow are grounded and oned.
 
-The second is the discolouring of his fair face, in token of his precious passion.
+The second is the discolouring of his fair face, in token of his dearworthy passion.
 
 The third is that our Lord God — almighty wisdom, all love — just as truly as he has made everything that is, so truly does he do and work all that is done.
 
@@ -37,7 +37,7 @@ The ninth is of the delight that is in the blessed Trinity at the hard passion o
 
 The tenth is our Lord Jesus showing, in love, his blessed heart cloven in two, rejoicing.
 
-The eleventh is a high, spiritual showing of his precious mother.
+The eleventh is a high, spiritual showing of his dearworthy mother.
 
 The twelfth is that our Lord is the most worthy being.
 

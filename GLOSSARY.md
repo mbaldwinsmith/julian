@@ -38,6 +38,8 @@ Seeded from STYLEGUIDE §6. Do not silently depart from these.
 | *likeing* | delight | Pleasure/gratification; not "pleasure" (too thin) nor "liking" (too weak). Ratified 2026-06-20 (ch. 1) |
 | *nowten* / *noughted* | bring to nothing | Apophatic self-emptying; rendered as a plain phrase, **not** kept as a coinage (unlike *oneing*). Ruled 2026-06-20 (ch. 5) |
 | *drede* / *dredfull* | dread / awe (by context) | "dread" where holy-fear is strong (incl. the phrase "reverent dread"); "awe" where "dread" would misread. Ruled 2026-06-20 (ch. 4) |
+| *deareworthy* / *dereworthy* | dearworthy | Retain Julian's distinct word; NOT merged into "precious" (which renders *pretious*). Ruled 2026-06-20 (ch. 12) |
+| *even Cristen* | fellow Christians | Julian's term for fellow believers. Ruled 2026-06-20 (ch. 9) |
 
 ---
 
@@ -81,3 +83,8 @@ is transparent.
 - ***drede / dredfull* → "dread" / "awe" by context** — "dread" for strong holy-fear
   (incl. "reverent dread"); "awe" where "dread" misreads.
 - ***homely* → always "intimate"** — the "familiar" alternative retired.
+
+### 2026-06-20 — from Chapters 9–12
+- ***even Cristen* → "fellow Christians"**.
+- ***deareworthy* → "dearworthy"** — kept distinct from *pretious* → "precious".
+- *onehede* → "oneness" (distinct from *oneing*); *demyng* → "judgment".

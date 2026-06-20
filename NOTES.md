@@ -145,9 +145,10 @@ Dates are absolute. New entries go at the top of each section.
   affective senses. Each logged.
 
 **Chapters 6–8:**
-- ***deareworthy / dereworthy* → "precious"** (kept consistent with *pretious* → precious).
-  **Surfaced:** could instead be distinguished as **"dearworthy"** (retain Julian's
-  separate word); if adopted, chs. 1, 6, 8 need a small re-touch. Awaiting Mark's call.
+- ***deareworthy / dereworthy* → "dearworthy"** — **ruled 2026-06-20** (Claude's judgment,
+  on Mark's standing trust). Retain Julian's distinct word, separate from *pretious* →
+  "precious"; ch. 12 (*"precious plenty of his dearworthy blood"*) made the case. Re-touched
+  chs. 1 and 6; ch. 8 already used it.
 - ***even Cristen* → "fellow Christians"** — Julian's standing term for fellow believers;
   applied throughout. (Alternative: retain "even-Christians".)
 - *curtesie / curtes* → "courtesy / courteous" (§6, retained); *homlyhede* → "intimacy".
