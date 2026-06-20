@@ -29,7 +29,7 @@ The fifth is that the fiend is overcome by the precious passion of Christ.
 
 The sixth is the worshipful thanking of our Lord God, with which he rewards his blessed servants in heaven.
 
-The seventh is the frequent feeling of weal and woe. The feeling of weal is gracious touching and enlightening, with true sureness of endless joy; the feeling of woe is temptation through the heaviness and weariness of our fleshly living — with the spiritual understanding that we are kept just as surely in love, in woe as in weal, by the goodness of God.
+The seventh is the frequent feeling of weal and woe. The feeling of weal is gracious touching and lightening, with true sureness of endless joy; the feeling of woe is temptation through the heaviness and weariness of our fleshly living — with the spiritual understanding that we are kept just as surely in love, in woe as in weal, by the goodness of God.
 
 The eighth is the last pains of Christ and his cruel dying.
 
@@ -74,13 +74,12 @@ consulted as a drafting aid (not reproduced here, per the copyright ruling in `N
   list; the source runs them continuously. A layout choice for an apparatus list only —
   it does not apply to Julian's running prose in later chapters.
 
-**Proposed glossary rulings — awaiting your nod (not yet added to `GLOSSARY.md`):**
-- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin). Confirmed as a
-  load-bearing legal-ecclesiastical term by Crampton's note; chosen over
-  "satisfaction" (too forensic) and "reparation" (too modern).
-- ***wele / wo* → "weal / woe"** — kept as the alliterative pair, over "well-being/woe".
+**Glossary rulings ratified 2026-06-20 (now in `GLOSSARY.md`):**
+- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; over
+  "satisfaction"/"reparation").
+- ***wele / wo* → "weal / woe"** — the alliterative pair, over "well-being/woe".
 - ***likeing* → "delight"** (ch. 9) — over "pleasure"/"liking".
 
-**Open question:** *lightening* in "gracious touching and lightening" — rendered
-**"enlightening"** (illumination). It could instead mean a *lightening* of the soul's
-weight (relief). Flagged for your eye.
+**Ruling — *lightening*:** kept as **"lightening"** (not "enlightening") in "gracious
+touching and lightening" — the word holds Julian's ambiguity (illumination / a lifting
+of the soul's weight) as her own does. (Mark's ruling, 2026-06-20.)

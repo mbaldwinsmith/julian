@@ -116,11 +116,16 @@ Dates are absolute. New entries go at the top of each section.
 - ***privityes* → "secrets"** — *"wete His privityes"* = "know His secrets" (the *privy*
   ruling in its hidden sense).
 
-**Proposed new glossary terms — awaiting Mark's ratification (not yet in `GLOSSARY.md`):**
-- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; chosen over
-  "satisfaction"/"reparation"). Supported as a load-bearing legal-ecclesiastical term.
-- ***wele / wo* → "weal / woe"** (kept as the alliterative pair, over "well-being/woe").
+**New glossary terms — ratified 2026-06-20 (now in `GLOSSARY.md`):**
+- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; over
+  "satisfaction"/"reparation"). A load-bearing legal-ecclesiastical term.
+- ***wele / wo* → "weal / woe"** (the alliterative pair, over "well-being/woe").
 - ***likeing* → "delight"** (over "pleasure"/"liking").
+
+**Ruling — *lightening* (ch. 1), 2026-06-20:** in *"gracious touching and lightening"*
+keep the word **"lightening"** (not "enlightening"). The English word holds Julian's
+ambiguity — illumination and the lifting of the soul's weight — as her Middle English
+does; don't resolve it. (Mark's ruling.)
 
 ---
 

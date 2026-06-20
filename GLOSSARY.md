@@ -33,6 +33,9 @@ Seeded from STYLEGUIDE §6. Do not silently depart from these.
 | *substance* | substance | Retain the scholastic term; do not paraphrase |
 | *shewing* / *shewings* | showing / showings | Established English rendering; carries revelation-as-gift |
 | *motherhood* (of God/Christ) | motherhood | Do not soften or bracket; central to Julian's theology (chs. 57–63) |
+| *asseth* / *aseeth* | amends | Satisfaction/reparation for sin (a legal-ecclesiastical term); not "satisfaction" (too forensic) nor "reparation" (too modern). Ratified 2026-06-20 (ch. 1) |
+| *wele* / *wo* | weal / woe | Keep the alliterative pair; *wele* = well-being/joy. Ratified 2026-06-20 (ch. 1) |
+| *likeing* | delight | Pleasure/gratification; not "pleasure" (too thin) nor "liking" (too weak). Ratified 2026-06-20 (ch. 1) |
 
 ---
 
@@ -65,4 +68,8 @@ is transparent.
 > that prompted them. Keep the tables above authoritative; use this section as the
 > running log so the history of each decision is legible.
 
-*(none yet)*
+### 2026-06-20 — ratified from Chapter 1
+- ***asseth* → amends** — Julian's term for satisfaction/reparation for sin, both legal
+  and ecclesiastical; over "satisfaction" / "reparation".
+- ***wele / wo* → weal / woe** — the alliterative pair kept; *wele* = well-being/joy.
+- ***likeing* → delight** — over "pleasure" / "liking".
