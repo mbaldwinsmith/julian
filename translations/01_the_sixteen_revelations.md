@@ -29,11 +29,11 @@ The fifth is that the fiend is overcome by the precious passion of Christ.
 
 The sixth is the worshipful thanking of our Lord God, with which he rewards his blessed servants in heaven.
 
-The seventh is the frequent feeling of weal and woe. The feeling of weal is gracious touching and lightening, with true sureness of endless joy. The feeling of woe is temptation by the heaviness and weariness of our fleshly living, with the spiritual understanding that we are kept just as surely in love, in woe as in weal, by the goodness of God.
+The seventh is the frequent feeling of weal and woe. The feeling of weal is gracious touching and enlightening, with true sureness of endless joy; the feeling of woe is temptation through the heaviness and weariness of our fleshly living — with the spiritual understanding that we are kept just as surely in love, in woe as in weal, by the goodness of God.
 
 The eighth is the last pains of Christ and his cruel dying.
 
-The ninth is of the delight that is in the blessed Trinity at the hard passion of Christ and his rueful dying; in which joy and delight he wills that we be solaced and gladdened with him, until we come to our fullness in heaven.
+The ninth is of the delight that is in the blessed Trinity at the hard passion of Christ and his rueful dying; in which joy and delight he wills that we be comforted and gladdened with him, until we come to our fullness in heaven.
 
 The tenth is our Lord Jesus showing, in love, his blessed heart cloven in two, rejoicing.
 
@@ -41,53 +41,46 @@ The eleventh is a high, spiritual showing of his precious mother.
 
 The twelfth is that our Lord is the most worthy being.
 
-The thirteenth is that our Lord God wills that we have great regard to all the deeds he has done — in the great nobility of the making of all things, and in the excellence of the making of man, which is above all his works; and in the precious amends he has made for man's sin, turning all our blame into endless worship. Here also our Lord says: *Behold and see, for by the same mighty wisdom and goodness I shall make well all that is not well, and you shall see it.* And in this he wills that we keep ourselves in the faith and truth of Holy Church, not wishing us to know his secrets now, save as it belongs to us in this life.
+The thirteenth is that our Lord God wills that we have great regard to all the deeds he has done: in the great nobility of the making of all things, and in the excellence of the making of man, which is above all his works; and in the precious amends he has made for man's sin, turning all our blame into endless worship. Here also our Lord says: *Behold and see, for by the same mighty wisdom and goodness I shall make well all that is not well, and you shall see it.* And in this he wills that we keep ourselves in the faith and truth of Holy Church, not wishing us to know his secrets now, save as it belongs to us in this life.
 
 The fourteenth is that our Lord is the ground of our beseeching. Herein were seen two properties: the one is rightful prayer, the other is sure trust — which he wills to be both alike large; and so our prayers please him, and he of his goodness fulfils them.
 
 The fifteenth is that we shall suddenly be taken from all our pain and from all our woe, and, of his goodness, we shall come up above, where we shall have our Lord Jesus for our reward and be filled full of joy and bliss in heaven.
 
-The sixteenth is that the blessed Trinity, our Maker, in Christ Jesus our Saviour, endlessly dwells in our soul — worshipfully ruling and governing all things, mightily and wisely saving and keeping us, for love; and we shall not be overcome by our enemy.
-
-## Warrack (1901) — reference only
-
-*Not consulted for this apparatus chapter. (Warrack comparison is reserved for difficult passages of Julian's running prose; `REFERENCE.md` is not populated for Chapter 1.)*
+The sixteenth is that the blessed Trinity, our Maker, in Christ Jesus our Saviour, endlessly dwells in our soul — worshipfully ruling and giving all things, mightily and wisely saving and keeping us, for love; and we shall not be overcome by our enemy.
 
 ## Translator's Notes
 
-Decisions surfaced for Mark's review. Glossary-governed renderings are noted; genuinely
-open choices are flagged.
+Fresh run (2026-06-20) through the confirmed ritual, with Crampton's glosses and notes
+consulted as a drafting aid (not reproduced here, per the copyright ruling in `NOTES.md`).
 
-- **Glossary terms applied:** *sheweing(s)* → showing(s); *blisse* → bliss; *goostly
-  understanding* ("ghostly understanding" in the edition's letter-forms) → **spiritual**
-  understanding (not "ghostly", per §6); *soule* → soul; *wonyth* → dwells (permitted
-  archaism, §5.2); *gracious* retained (§5.2); *Behold* retained (§5.2).
-- **oned / oneing (§6):** *onyd* rendered **"oned"**, retaining Julian's coinage rather
-  than "united". Flagged because this is the first appearance of the *oneing* family and
-  sets the precedent.
-- **NEW TERM — *asseth* → "amends":** "the precious amends he has made for man's sin."
-  *Asseth* (aseeth) is Julian's term for satisfaction/reparation for sin. Chose **amends**
-  over "satisfaction" (too forensic) and "reparation" (too modern). **Proposed glossary
-  ruling — needs your nod.**
-- **NEW TERM — *wele and wo* → "weal and woe":** kept the alliterative archaic pair to
-  preserve Julian's rhythm and the technical weal/woe distinction. Alternative: "well-being
-  and woe". **Proposed glossary ruling.**
-- **NEW TERM — *likeing* → "delight":** ch. 9, "the delight that is in the blessed
-  Trinity." Considered "pleasure" (too thin) and "liking" (too weak). **Proposed glossary
-  ruling.**
-- ***privityes* → "secrets" (§6, *privy*):** "not wishing us to know his secrets now."
-  An instance of the *privy* ruling in its hidden (not interior) sense — logged.
-- **Divine direct speech:** in the Lord's words I used modern **"you shall see it"**
-  (the source has *thou shalt*), per §5.1's caution against inconsistent *thee/thou*
-  pseudo-medievalism. The words are set in italic to mark them as direct speech.
-- **Echo of "all shall be well" (§8):** "I shall make well all that is not well, and you
-  shall see it." This is *not* the fixed phrase *alle shalle be wele*, but its near
-  relative; rendered literally and flagged so it is not mistaken for the formula.
-- **Lexical crux — *geveand*:** in "reuland and geveand all things" I rendered
-  **"ruling and governing"**, but *geveand* could instead be "giving". Tentative; flag
-  for your eye. (Compare Sloane/Paris if needed.)
-- **deareworthy → "precious":** rendered "precious" (passion, mother) rather than the
-  opaque "dearworthy". Minor; noted for consistency with *pretious* elsewhere.
-- **Syntax:** the sixteen items are set as separate paragraphs for readability of the
-  list; the source runs them continuously. This is a layout choice for an apparatus
-  list, not a change to Julian's prose, and does not apply to ordinary chapters.
+- **Glossary terms applied (STYLEGUIDE §6 / §5.2):** *sheweing(s)* → showing(s);
+  *blisse* → bliss; *goostly understanding* → **spiritual** understanding (not
+  "ghostly"); *soule* → soul; *wonyth* → dwells; *gracious* and *Behold* retained.
+- **oned / oneing (§6):** *onyd* → **"oned"**, retaining Julian's coinage over "united";
+  first appearance of the *oneing* family, setting the precedent.
+- **Resolved by Crampton's gloss — *geveand* → "giving":** *"reuland and geveand all
+  things"* = **"ruling and giving."** (My earlier tentative "governing" was wrong;
+  corrected. The crux is now closed.)
+- ***privityes* → "secrets":** the *privy* ruling in its hidden sense; logged in NOTES.
+- **Textual variant (logged):** Sloane reads *thee* where the edition reads *the
+  Trinite*; we follow *Trinite* — the enumeration plainly intends the Trinity.
+- **Divine direct speech:** the Lord's words rendered with modern *"you shall see it"*
+  (source *thou shalt*), per §5.1, and set in italics to mark them as speech.
+- **Echo of "all shall be well" (§8):** *"I shall make well all that is not well, and
+  you shall see it"* — not the fixed phrase *alle shalle be wele* but its near relative;
+  rendered literally, flagged so it is not mistaken for the formula.
+- **Layout:** the sixteen items are set as separate paragraphs for readability of the
+  list; the source runs them continuously. A layout choice for an apparatus list only —
+  it does not apply to Julian's running prose in later chapters.
+
+**Proposed glossary rulings — awaiting your nod (not yet added to `GLOSSARY.md`):**
+- ***asseth* → "amends"** (Julian's satisfaction/reparation for sin). Confirmed as a
+  load-bearing legal-ecclesiastical term by Crampton's note; chosen over
+  "satisfaction" (too forensic) and "reparation" (too modern).
+- ***wele / wo* → "weal / woe"** — kept as the alliterative pair, over "well-being/woe".
+- ***likeing* → "delight"** (ch. 9) — over "pleasure"/"liking".
+
+**Open question:** *lightening* in "gracious touching and lightening" — rendered
+**"enlightening"** (illumination). It could instead mean a *lightening* of the soul's
+weight (relief). Flagged for your eye.
