@@ -30,9 +30,9 @@ In this he brought our blessed Lady to my understanding. I saw her spiritually, 
   avoid "wonder and wondering."
 - ***the first* → "the first [showing]"** — supplied silently from context.
 
-**Surfaced (load-bearing, recurs — see batch note):**
-- ***homely* → "intimate"** (§6) makes its first major appearance: *"so intimate with a
-  sinful creature."* §6 allows "familiar" where "intimate" feels too romantic — this
-  divine-condescension context may be one. Confirm or adjust.
-- ***dredfull* → "dread"** (*"so reverend, so dread"*). The *drede* family (later: *reverent
-  dread*) recurs and wants a standing rendering. Proposed for the glossary.
+**Rulings applied (2026-06-20):**
+- ***homely* → "intimate"** — always (the §6 "familiar" alternative retired):
+  *"so intimate with a sinful creature."*
+- ***dredfull* → "dread"** here (*"so reverend, so dread"*): the *drede* family is rendered
+  **by context** — "dread" where the holy-fear weight is strong (as here), "awe" where
+  "dread" might misread. The later key phrase stays *"reverent dread."*

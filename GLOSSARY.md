@@ -21,7 +21,7 @@ Seeded from STYLEGUIDE §6. Do not silently depart from these.
 | *soule* | soul | Not "self" or "psyche" |
 | *goostly* | spiritual | Not "ghostly" (misleading) |
 | *kinde* / *kindly* | nature / natural | Also carries "kind/kindness" — context determines; **log every ambiguous case** in NOTES.md |
-| *homely* / *homeliness* | intimacy / intimate | NOT "homely" (modern meaning is derogatory); consider "familiar" where "intimate" feels too romantic |
+| *homely* / *homeliness* | intimacy / intimate | NOT "homely" (modern meaning is derogatory). **Always** "intimate/intimacy"; the "familiar" alternative retired 2026-06-20 |
 | *oneing* | oneing | Retain Julian's coinage; do **not** translate as "union" — she chose a verbal noun deliberately |
 | *privy* / *privily* | secret / secretly | Or "inward/inwardly" where *privy* has an interior rather than hidden sense |
 | *marvelling* | wondering | Not "marvelling" (too archaic) nor "amazed" (too sudden); "wondering" preserves the sustained quality |
@@ -36,6 +36,8 @@ Seeded from STYLEGUIDE §6. Do not silently depart from these.
 | *asseth* / *aseeth* | amends | Satisfaction/reparation for sin (a legal-ecclesiastical term); not "satisfaction" (too forensic) nor "reparation" (too modern). Ratified 2026-06-20 (ch. 1) |
 | *wele* / *wo* | weal / woe | Keep the alliterative pair; *wele* = well-being/joy. Ratified 2026-06-20 (ch. 1) |
 | *likeing* | delight | Pleasure/gratification; not "pleasure" (too thin) nor "liking" (too weak). Ratified 2026-06-20 (ch. 1) |
+| *nowten* / *noughted* | bring to nothing | Apophatic self-emptying; rendered as a plain phrase, **not** kept as a coinage (unlike *oneing*). Ruled 2026-06-20 (ch. 5) |
+| *drede* / *dredfull* | dread / awe (by context) | "dread" where holy-fear is strong (incl. the phrase "reverent dread"); "awe" where "dread" would misread. Ruled 2026-06-20 (ch. 4) |
 
 ---
 
@@ -73,3 +75,9 @@ is transparent.
   and ecclesiastical; over "satisfaction" / "reparation".
 - ***wele / wo* → weal / woe** — the alliterative pair kept; *wele* = well-being/joy.
 - ***likeing* → delight** — over "pleasure" / "liking".
+
+### 2026-06-20 — from Chapters 3–5
+- ***noughting* → "bring to nothing"** — plain phrase, not a retained coinage.
+- ***drede / dredfull* → "dread" / "awe" by context** — "dread" for strong holy-fear
+  (incl. "reverent dread"); "awe" where "dread" misreads.
+- ***homely* → always "intimate"** — the "familiar" alternative retired.

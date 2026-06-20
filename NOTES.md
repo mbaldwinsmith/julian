@@ -131,14 +131,15 @@ Dates are absolute. New entries go at the top of each section.
 - Pattern: *kinde* judged in context — "nature/natural" by default (§6), "kind" in
   affective senses. Each logged.
 
-**Surfaced — awaiting Mark's ruling (chs 3–5):**
-- ***noughting*** — Julian's apophatic verb *nowten/nowtyn/nowted*. Proposed: **retain the
-  coinage** (*to nought / noughted*), parallel to *oneing*, over "bring to nothing" /
-  "count as nothing".
-- ***drede / dredfull*** — proposed standing rendering for the awe / holy-fear family:
-  **"dread"** (adj./noun), e.g. *"so reverend, so dread"*; later *"reverent dread."*
-- ***homely*** in divine-condescension contexts — confirm **"intimate"** or prefer
-  **"familiar"** (§6 permits it where "intimate" feels too romantic).
+**Ruled 2026-06-20 (chs 3–5):**
+- ***noughting* → "bring to nothing".** Julian's apophatic *nowten/nowted* is rendered
+  with the plain phrase, **not** kept as a coinage (unlike *oneing*). E.g. *"to bring to
+  nothing everything that is made."*
+- ***drede / dredfull* → by context: "dread" or "awe".** Use **"dread"** (adj./noun)
+  where the holy-fear weight is strong (*"so reverend, so dread"*); **"awe"** where
+  "dread" would misread. The key later phrase stays **"reverent dread."**
+- ***homely* → always "intimate / intimacy".** The §6 "familiar" alternative is
+  **retired** — one consistent rendering everywhere.
 
 **New glossary terms — ratified 2026-06-20 (now in `GLOSSARY.md`):**
 - ***asseth* → "amends"** (Julian's satisfaction/reparation for sin; over

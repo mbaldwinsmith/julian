@@ -132,7 +132,7 @@ that must be applied consistently. Exceptions require a `NOTES.md` entry.
 | *soule* | soul | Not "self" or "psyche" |
 | *goostly* | spiritual | Not "ghostly" (misleading) |
 | *kinde* / *kindly* | nature / natural | Also carries "kind/kindness" — context determines; log ambiguous cases |
-| *homely* / *homeliness* | intimacy / intimate | NOT "homely" (modern meaning is derogatory); consider "familiar" where "intimate" feels too romantic |
+| *homely* / *homeliness* | intimacy / intimate | NOT "homely" (modern meaning is derogatory). Always "intimate/intimacy" (the "familiar" alternative retired 2026-06-20) |
 | *oneing* | oneing | Retain Julian's own coinage; do not translate as "union" — she chose a verbal noun deliberately |
 | *privy* / *privily* | secret / secretly | Or "inward/inwardly" where *privy* has an interior rather than hidden sense |
 | *marvelling* | wondering | Not "marvelling" (too archaic) nor "amazed" (too sudden); "wondering" preserves the sustained quality |
