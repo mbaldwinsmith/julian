@@ -63,6 +63,15 @@ Dates are absolute. New entries go at the top of each section.
   variants and difficult words) but does **not** commit them verbatim or republish them
   in the edition. Only Claude's own derived decisions are logged here.
 
+### Capture artefacts — *noted 2026-06-20*
+- The metseditions/Crampton text breaks some lines **mid-word without a hyphen**, so the
+  pasted/extracted source carries occasional split tokens — e.g. *behold ing* (=
+  *beholding*), *under stode* (= *understode*), *understond yng*, and a stray period in
+  *merveyling in.* These are present in the page itself (not introduced by extraction)
+  and are **resolved silently in translation**. `SOURCE.md` still shows them; a
+  normalisation pass over `SOURCE.md` (rejoining obvious splits) is pending — best folded
+  into the Module 3 consistency sweep, or done on request.
+
 ### The Sloane incipit — *ruled 2026-06-16*
 - The edition's opening — *"Revelations to one who could not read a letter. Anno Domini
   1373."* and *"A Particular of the Chapters."* — is **front matter, not part of
@@ -102,7 +111,11 @@ Dates are absolute. New entries go at the top of each section.
 > Per STYLEGUIDE §4.1: where a genuinely confusing original structure was lightly
 > clarified, record it here — chapter, the original, the rendering, the reason.
 
-*(none yet)*
+- **Ch. 7, final sentence:** *"And thus be the shewyng: It is not other than the faith ne
+  less ne more as it may be seene be our Lords meneing in the same matter be than it come
+  to the end."* → "And thus it stands with the showing: it is no other than the faith,
+  neither less nor more, as may be seen by our Lord's meaning, in the same matter, by the
+  time it comes to the end." Light clarification of a knotty clause; sense preserved.
 
 ---
 
@@ -130,6 +143,14 @@ Dates are absolute. New entries go at the top of each section.
 - ch. 5 *kinde yernings* → "natural yearning" (native/natural sense).
 - Pattern: *kinde* judged in context — "nature/natural" by default (§6), "kind" in
   affective senses. Each logged.
+
+**Chapters 6–8:**
+- ***deareworthy / dereworthy* → "precious"** (kept consistent with *pretious* → precious).
+  **Surfaced:** could instead be distinguished as **"dearworthy"** (retain Julian's
+  separate word); if adopted, chs. 1, 6, 8 need a small re-touch. Awaiting Mark's call.
+- ***even Cristen* → "fellow Christians"** — Julian's standing term for fellow believers;
+  applied throughout. (Alternative: retain "even-Christians".)
+- *curtesie / curtes* → "courtesy / courteous" (§6, retained); *homlyhede* → "intimacy".
 
 **Ruled 2026-06-20 (chs 3–5):**
 - ***noughting* → "bring to nothing".** Julian's apophatic *nowten/nowted* is rendered
